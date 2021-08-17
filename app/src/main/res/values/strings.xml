@@ -1,3 +1,15 @@
 <resources>
 	<string name="app_name">FakeStore</string>
+
+	<string name="settings">Settings</string>
+	<string name="search">Search</string>
+
+	<string name="goodMorning">Goor morning, %s</string>
+	<string name="goodAfternoon">Good afternoon, %s</string>
+	<string name="goodEvening">Good evening, %s</string>
+
+	<!-- Content descriptions text -->
+	<string name="menuItemSettingsDescription">Toolbar menu item redirecting to settings</string>
+	<string name="menuItemSearchDescription">Search menu item opening search bar</string>
+
 </resources>
